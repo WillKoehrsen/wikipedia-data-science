@@ -11,6 +11,9 @@ __pycache__/
 *.gz
 *.tar
 
+# Models
+*.h5
+
 # C extensions
 *.so
 
