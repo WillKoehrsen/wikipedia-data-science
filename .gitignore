@@ -10,7 +10,7 @@ __pycache__/
 *.bz
 *.gz
 *.tar
-
+*DS_Store
 # Models
 *.h5
 
