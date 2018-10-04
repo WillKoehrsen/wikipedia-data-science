@@ -8,7 +8,7 @@
       ],
       "tensorPath": "https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/sample_book_embeddings.tsv",
       "metadataPath": "https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/sample_book_info.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/sample_pca_genre_state.txt"
+      "bookmarksPath": "https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/states/sample_pca_genre.txt"
     }
   ]
 }
