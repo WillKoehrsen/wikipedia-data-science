@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Wikipedia Books",
+      "tensorShape": [
+        9360,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/sample_book_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/sample_book_info.tsv"
+    }
+  ]
+}
