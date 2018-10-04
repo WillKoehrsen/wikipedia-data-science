@@ -6,7 +6,7 @@
         37020,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/book_embeddings.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/book_embedding.tsv",
       "metadataPath": "https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/book_info.tsv"
     }
   ]
