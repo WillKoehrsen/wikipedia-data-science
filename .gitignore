@@ -5,7 +5,6 @@ __pycache__/
 
 # Data
 *.zip
-*.csv
 *.xml
 *.bz
 *.gz
