@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 # Data
+*glove*
+
 *.zip
 *.xml
 *.bz
