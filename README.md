@@ -1,2 +1,2 @@
 # wikipedia-data-science
-Working with and analyzing Wikipedia Data
+Working with and dissecting Wikipedia Data.
